@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'brokenllama',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -45,18 +45,18 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'virustotal',
+      icon: 'eye',
+      link: 'https://www.virustotal.com/gui/home/upload',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
+      name: 'Netflix',
+      icon: 'monitor',
       link: 'https://calendar.google.com/calendar/r',
     },
     {
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
